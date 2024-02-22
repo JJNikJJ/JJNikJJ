@@ -20,7 +20,9 @@
 
 ---
 
-<h1>:man_technologist:  About Me : <br> I am an aspiring web developer </h1>
+### :man_technologist:  About Me : 
+
+## I am an aspiring web developer 
 
 - :man_teacher:  I am currently teaching children the Python programming language.
 
@@ -52,9 +54,14 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JJNikJJ&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJNikJJ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJNikJJ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JJNikJJ&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
 <!--
 **JJNikJJ/JJNikJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
